@@ -22,14 +22,6 @@
   font-size: 1.25rem;
 }
 
-.nav a {
-  text-decoration: none;
-  color: #ddd6cb;
-  font-weight: bold;
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-}
-
 .logo {
   display: flex;
   align-items: center;
